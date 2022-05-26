@@ -11,6 +11,10 @@ body {
   background-color: #e2edff;
 }
 
+.logo {
+  height: 30px;
+}
+
 section {
   padding-top: 5rem;
 }
